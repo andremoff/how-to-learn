@@ -15,12 +15,12 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
 @import url(../blocks/content/discription/discription.css);
-@import url(../blocks/two-colomns/two-colomns.css);
-@import url(../blocks/two-colomns/__brief/two-coloms__brief.css);
-@import url(../blocks/two-colomns/__main-text/two-coloms__main-text.css);
-@import url(../blocks/two-colomns/__paragraph/two-coloms__paragraph.css);
-@import url(../blocks/two-colomns/__paragraph/last-child/two-coloms__paragraph_last-child.css);
-@import url(../blocks/two-colomns/__span-accent/two-coloms__span-accent.css);
+@import url(../blocks/content/discription/two-colomns/two-colomns.css);
+@import url(../blocks/content/discription/two-colomns/__brief/two-colomns__brief.css);
+@import url(../blocks/content/discription/two-colomns/__main-text/two-colomns__main-text.css);
+@import url(../blocks/content/discription/two-colomns/__paragraph/two-colomns__paragraph.css);
+@import url(../blocks/content/discription/two-colomns/__paragraph/last-child/two-colomns__paragraph_last-child.css);
+@import url(../blocks/content/discription/two-colomns/__span-accent/two-colomns__span-accent.css);
 
 @import url(../blocks/content/techniques/techniques.css);
 @import url(../blocks/content/techniques/cards/cards.css);
