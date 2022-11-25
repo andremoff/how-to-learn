@@ -11,16 +11,15 @@
 @import url(../blocks/header/__link/__link_hover/header__link_hover.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/header/__square-pic/__square-pic_rotation/header__square-pic_rotation.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
 @import url(../blocks/content/discription/discription.css);
-@import url(../blocks/content/discription/two-colomns/two-colomns.css);
-@import url(../blocks/content/discription/two-colomns/__brief/two-colomns__brief.css);
-@import url(../blocks/content/discription/two-colomns/__main-text/two-colomns__main-text.css);
-@import url(../blocks/content/discription/two-colomns/__paragraph/two-colomns__paragraph.css);
-@import url(../blocks/content/discription/two-colomns/__paragraph/last-child/two-colomns__paragraph_last-child.css);
-@import url(../blocks/content/discription/two-colomns/__span-accent/two-colomns__span-accent.css);
+@import url(../blocks/content/discription/two-columns/two-colomns.css);
+@import url(../blocks/content/discription/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/content/discription/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/content/discription/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/content/discription/two-columns/__paragraph/last-child/two-colomns__paragraph_last-child.css);
+@import url(../blocks/content/discription/two-columns/__span-accent/two-columns__span-accent.css);
 
 @import url(../blocks/content/techniques/techniques.css);
 @import url(../blocks/content/techniques/cards/cards.css);
@@ -71,7 +70,6 @@
 @import url(../blocks/content/digits/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/content/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/content/kaufman/__triangle/__triangle_rotation/kaufman__triangle_rotation.css);
 
 @import url(../blocks/content/resources/resources.css);
 @import url(../blocks/content/resources/__logo-zone/resources__logo-zone.css);
