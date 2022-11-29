@@ -2,7 +2,7 @@
   width: 920px;
   display: flex;
   margin: auto;
-  margin-top: 0;
   flex-wrap: wrap;
   padding-left: 0;
+  column-gap: 100px;
 }

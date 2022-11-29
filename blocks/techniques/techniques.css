@@ -1,6 +1,4 @@
-.techniques  {
-  display: flex;
-  flex-wrap: wrap;
+.techniques {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
